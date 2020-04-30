@@ -1,0 +1,159 @@
+body
+{
+
+background-attachment: scroll;
+}
+.whole
+ {
+    margin: 0 auto;
+    width: 100%;
+ }
+.logo 
+{
+    width: 100%;
+    height: 5%;
+    background-color: cornflowerblue;
+    text-align: center;
+    opacity: 90%;
+    font-size: 17px;
+letter-spacing: 1px;
+word-spacing: 1.4px;
+color: #000000;
+font-weight: normal;
+
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+
+text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+}
+.menu1 
+{
+    width: 15%;
+    height: 45%;
+    background-color: deepskyblue;
+    text-align: center;
+    float: left;
+    opacity: 70%;
+}
+.menu2 
+{
+    width: 15%;
+    height: 45%;
+    background-color:lightskyblue;
+    text-align: center;
+    float: left;
+    opacity: 70%;
+}
+.text
+ {
+    width: 85%;
+    height: 90%;
+    background-color: aquamarine;
+    text-align: center;
+   float: right;
+   opacity: 70%;
+   font-family: Georgia, serif;
+   font-size: 20px;
+   letter-spacing: 2px;
+   word-spacing: 2px;
+  color: chocolate;
+   font-weight: normal;
+  
+   font-style: normal;
+   font-variant: normal;
+   text-transform: none;
+}
+.footer
+{
+    width: 100%;
+    height: 5%;
+    background-color: lightskyblue;
+    text-align: center;
+    clear: both;
+    opacity: 90%;
+    font-weight: 400;
+    font-size: 20px;
+    border: 3px solid darkred;
+    padding-bottom: 5px;
+}
+a:hover
+{
+font-size: 30px;
+color: darkviolet;
+
+
+}
+li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+li:hover
+{
+    color: red;
+font-size: 30px;
+
+}
+h3
+{
+font-size: 20px;
+color: orangered;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+ol
+{
+    font: italic normal 300 20px "Times New Roman";
+
+    font-size: 25px;
+}
+ul
+{
+    font: italic normal 300 20px "Times New Roman";
+ color: darkviolet;
+    font-size: 25px;
+    list-style-type: square;
+}
+
+a:visited
+{
+
+
+    color: saddlebrown;
+}
+
+p
+{
+
+    margin-left: 35px;
+    margin-right: 35px;
+}
+table
+{
+border: 5px solid  darkorange;
+background-color: darkslategray;
+  border-radius: 5px;
+  text-align: center;
+}
+td
+{
+    border :5px solid  darkorange ;
+    background-color: darkslategray;
+
+
+}
+tr
+{
+    border :5px solid  darkorange ;
+    background-color: darkslategray;
+  
+}
+.Tab
+{
+text-align: left;
+font-weight: bold;
+}

@@ -1,0 +1,187 @@
+body
+{
+    background-image:url(../Img/tlo.jpg);
+    background-attachment: scroll;
+}
+a
+{
+    color: crimson;
+}
+textarea
+{
+font-style: italic;
+font-family: Arial;
+background-color: wheat;
+    opacity: 100%;
+    
+}
+a:hover
+{
+color: orangered;
+font-size: 30px;
+
+
+}
+a:visited
+{
+
+
+    color: saddlebrown;
+}
+li:hover
+{
+    color: red;
+font-size: 25px;
+
+}
+
+
+h1
+{
+  margin-top: 15px;
+}
+ 
+table
+{
+border: 5px solid  darkorange;
+background-color: darkslategray;
+  border-radius: 5px;
+}
+td
+{
+    border :5px solid  darkorange ;
+    background-color: darkslategray;
+
+
+}
+tr
+{
+    border :5px solid  darkorange ;
+    background-color: darkslategray;
+  
+}
+ol
+{
+    font: italic normal 300 20px "Times New Roman";
+
+    font-size: 25px;
+}
+ul
+{
+    font: italic normal 300 20px "Times New Roman";
+ 
+    font-size: 25px;
+    list-style-type: square;
+}
+li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+img
+{
+    height: 300px;
+    width: 500px;
+}
+
+.whole
+ {
+    margin: 0 auto;
+    width: 100%;
+  ;
+
+
+}
+.logo 
+{
+    width: 100%;
+    height: 5%;
+    background-color: cornflowerblue;
+    text-align: center;
+   padding-top: 5px;
+   opacity: 80%;
+   font-family: Tahoma, sans-serif;
+font-size: 17px;
+letter-spacing: 1px;
+word-spacing: 1.4px;
+color: #000000;
+font-weight: normal;
+
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+
+text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+
+}
+.menu1 
+{ 
+   
+    width: 15%;
+    height: 90%;
+ background-color: rgb(34, 111, 255);;
+   opacity: 70%;
+    float: left;
+    text-align: center;
+}
+.menu2 
+{
+    width: 15%;
+    height: 90%;
+    background-color: rgb(34, 111, 255);
+    text-align: center;
+    float: left;
+    opacity: 70%;
+}
+.text
+ {   
+  opacity: 80%;
+    width: 70%;
+    height: 90%;
+
+    text-align: center;
+    float: left;
+
+ color: green;
+ font-family: Georgia, serif;
+ font-size: 20px;
+ letter-spacing: 2px;
+ word-spacing: 2px;
+
+ font-weight: normal;
+
+ font-style: normal;
+ font-variant: normal;
+ text-transform: none;
+
+background-color: lightskyblue;
+
+}    
+.footer
+{
+    width: 100%;
+    height: 5%;
+    background-color: lightskyblue;
+    text-align: center;
+    clear: both;
+    opacity: 90%;
+    font-weight: 400;
+    font-size: 20px;
+    border: 3px solid darkred;
+    padding-bottom: 5px;
+}
+p
+{
+  margin-left: 25px;
+ margin-right: 25px;
+}
+h3
+{
+font-size: 20px;
+color: orangered;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
