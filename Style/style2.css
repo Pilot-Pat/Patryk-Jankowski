@@ -157,3 +157,9 @@ tr
 text-align: left;
 font-weight: bold;
 }
+.logo2
+{
+    width: 100px;
+     height: 100px;
+float: right;
+}
